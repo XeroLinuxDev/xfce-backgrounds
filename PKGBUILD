@@ -2,7 +2,7 @@
 pkgname=xfce-backgrounds
 _destname1="/"
 pkgver=23.05
-pkgrel=1
+pkgrel=2
 pkgdesc="XFCE Wallpapers"
 arch=('any')
 url="https://github.com/XeroLinuxDev"
