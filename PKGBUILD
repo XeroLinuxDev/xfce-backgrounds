@@ -1,7 +1,7 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=xfce-backgrounds
 _destname1="/"
-pkgver=23.04
+pkgver=23.05
 pkgrel=1
 pkgdesc="XFCE Wallpapers"
 arch=('any')
